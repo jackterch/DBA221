@@ -1,0 +1,7 @@
+CREATE PROCEDURE sub_procedure_6_12()
+
+BEGIN
+	INSERT INTO departments (DEPARTMENT_NAME, MANAGER_ID, LOCATION)
+	VALUES(NULL, 1, "");
+	SELECT 'Row inserted';
+END

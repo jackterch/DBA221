@@ -1,0 +1,1 @@
+CALL calling_procedure_6_12();
